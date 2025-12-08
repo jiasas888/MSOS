@@ -10,4 +10,4 @@ assignees: ''
 
 ## 具体内容/Specific content
 
-## 希望加入的版本/want to add version
+## 希望在什么版本加入/what version add it
