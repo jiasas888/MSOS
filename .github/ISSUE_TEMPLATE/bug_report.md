@@ -1,13 +1,13 @@
 ---
 name: Bug report
 about: 'report bug'
-title: '[BUG]'
+title: 'write BUG here'
 labels: bug
 assignees: ''
 ---
 
-## 问题描述
+## 问题描述/bugs
 
-## 使用版本
+## 使用版本/your version
 
-## 使用系统
+## 使用系统/system
