@@ -1,6 +1,6 @@
 # MSOS
 ![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888/MSOS/total)
-使用JavaScript制作的一个简易的系统模拟项目
+这是一个简易的系统模拟项目
 ## 迭代
 ### 即将到来的新时代
 * 6.0.0是系统第六代，此次更新将使用kotlin等更新重写系统（使用ACS）
