@@ -4,6 +4,7 @@
 这是一个简易的系统模拟项目
 ## 迭代
 ### 即将到来的新时代
+* MSKOS 1.0在6.0开发期间不久更名MSKOS 将以MSKOS 1发布在https://github.com/jiasas888/MSKOS
 * 6.0.0（预计Android 5.0+）是系统第六代，此次更新将使用kotlin等更新重写系统（使用ACS）
 ### 早期html式（全部Android 4.4+）
 * 5.0仅发布预发布版本后停更
