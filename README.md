@@ -2,6 +2,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888/MSOS/total)
 
 这是一个简易的系统模拟项目
+* 已在2026.1停止更新
 ## 迭代
 ### 即将到来的新时代
 * MSUI 1.0将基于MSKOS 1.0开发MSUI 1.0
